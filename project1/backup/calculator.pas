@@ -5,7 +5,7 @@ unit calculator;
 interface
 
 uses
-  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, StdCtrls, Process;
+  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs;
 
 type
 
@@ -168,27 +168,8 @@ begin
 end;
 
 procedure TForm1.setUserName(_userName: string);
-var
-  AProcess     : TProcess;
-  OutputStream : TStream;
 begin
   self.userName:=_userName;
-  AProcess := TProcess.Create(nil);
- {$IFDEF Windows}
-    // In Windows the dir command cannot be used directly because it's a build-in
-    // shell command. Therefore cmd.exe and the extra parameters are needed.
-    AProcess.Executable := 'c:\windows\system32\cmd.exe';
-    AProcess.Parameters.Add('echo off');
-    AProcess.Parameters.Add('echo 123123321231312132');
-    AProcess.Parameters.Add('echo 123123321231312132');
-    AProcess.Parameters.Add('Pause');
-    {$ENDIF Windows}
-    AProcess.Execute;
-    OutputStream := TMemoryStream.Create;
-    Memo1.Lines.Add(AProcess.Output.ToString);
-    AProcess.Free;
-    OutputStream.Free;
-
 end;
 
 function TForm1.getUserName: string;

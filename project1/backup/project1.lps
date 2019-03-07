@@ -18,10 +18,11 @@
         <Filename Value="calculator.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="114"/>
-        <CursorPos X="43" Y="123"/>
+        <TopLine Value="109"/>
+        <CursorPos X="77" Y="8"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -71,123 +72,123 @@
     <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
         <Filename Value="calculator.pas"/>
-        <Caret Line="76" Column="7" TopLine="62"/>
+        <Caret Line="68" Column="31" TopLine="50"/>
       </Position1>
       <Position2>
         <Filename Value="calculator.pas"/>
-        <Caret Line="68" Column="31" TopLine="50"/>
+        <Caret Line="99" Column="40" TopLine="85"/>
       </Position2>
       <Position3>
         <Filename Value="calculator.pas"/>
-        <Caret Line="99" Column="40" TopLine="85"/>
+        <Caret Line="101" Column="44" TopLine="85"/>
       </Position3>
       <Position4>
         <Filename Value="calculator.pas"/>
-        <Caret Line="101" Column="44" TopLine="85"/>
+        <Caret Line="95" TopLine="85"/>
       </Position4>
       <Position5>
         <Filename Value="calculator.pas"/>
-        <Caret Line="95" TopLine="85"/>
+        <Caret Line="94" TopLine="81"/>
       </Position5>
       <Position6>
         <Filename Value="calculator.pas"/>
-        <Caret Line="94" TopLine="81"/>
+        <Caret Line="103" Column="9" TopLine="88"/>
       </Position6>
       <Position7>
         <Filename Value="calculator.pas"/>
-        <Caret Line="103" Column="9" TopLine="88"/>
+        <Caret Line="115" Column="26" TopLine="89"/>
       </Position7>
       <Position8>
         <Filename Value="calculator.pas"/>
-        <Caret Line="115" Column="26" TopLine="89"/>
+        <Caret Line="31" Column="46" TopLine="14"/>
       </Position8>
       <Position9>
         <Filename Value="calculator.pas"/>
-        <Caret Line="31" Column="46" TopLine="14"/>
+        <Caret Line="136" Column="15" TopLine="120"/>
       </Position9>
       <Position10>
         <Filename Value="calculator.pas"/>
-        <Caret Line="34" Column="57" TopLine="36"/>
+        <Caret Line="137" Column="20" TopLine="122"/>
       </Position10>
       <Position11>
         <Filename Value="calculator.pas"/>
-        <Caret Line="136" Column="15" TopLine="120"/>
+        <Caret Line="140" Column="42" TopLine="126"/>
       </Position11>
       <Position12>
         <Filename Value="calculator.pas"/>
-        <Caret Line="137" Column="20" TopLine="122"/>
+        <Caret Line="138" Column="18" TopLine="126"/>
       </Position12>
       <Position13>
         <Filename Value="calculator.pas"/>
-        <Caret Line="140" Column="42" TopLine="126"/>
+        <Caret Line="136" Column="65" TopLine="126"/>
       </Position13>
       <Position14>
         <Filename Value="calculator.pas"/>
-        <Caret Line="138" Column="18" TopLine="126"/>
+        <Caret Line="144" Column="14" TopLine="132"/>
       </Position14>
       <Position15>
         <Filename Value="calculator.pas"/>
-        <Caret Line="136" Column="65" TopLine="126"/>
+        <Caret Line="124" Column="36" TopLine="105"/>
       </Position15>
       <Position16>
         <Filename Value="calculator.pas"/>
-        <Caret Line="144" Column="14" TopLine="132"/>
+        <Caret Line="114" Column="14" TopLine="108"/>
       </Position16>
       <Position17>
         <Filename Value="calculator.pas"/>
-        <Caret Line="124" Column="36" TopLine="105"/>
+        <Caret Line="156" Column="18" TopLine="142"/>
       </Position17>
       <Position18>
         <Filename Value="calculator.pas"/>
-        <Caret Line="114" Column="14" TopLine="108"/>
+        <Caret Line="155" Column="20" TopLine="142"/>
       </Position18>
       <Position19>
         <Filename Value="calculator.pas"/>
-        <Caret Line="156" Column="18" TopLine="142"/>
+        <Caret Line="126" TopLine="109"/>
       </Position19>
       <Position20>
-        <Filename Value="calculator.pas"/>
-        <Caret Line="155" Column="20" TopLine="142"/>
+        <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
+        <Caret Line="68" TopLine="54"/>
       </Position20>
       <Position21>
-        <Filename Value="calculator.pas"/>
-        <Caret Line="126" TopLine="109"/>
+        <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
+        <Caret Line="69" TopLine="54"/>
       </Position21>
       <Position22>
         <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
-        <Caret Line="68" TopLine="54"/>
+        <Caret Line="40" TopLine="26"/>
       </Position22>
       <Position23>
         <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
-        <Caret Line="69" TopLine="54"/>
+        <Caret Line="41" TopLine="26"/>
       </Position23>
       <Position24>
         <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
-        <Caret Line="40" TopLine="26"/>
+        <Caret Line="70" TopLine="56"/>
       </Position24>
       <Position25>
         <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
-        <Caret Line="41" TopLine="26"/>
+        <Caret Line="72" TopLine="56"/>
       </Position25>
       <Position26>
         <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
-        <Caret Line="70" TopLine="56"/>
+        <Caret Line="73" TopLine="56"/>
       </Position26>
       <Position27>
         <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
-        <Caret Line="72" TopLine="56"/>
+        <Caret Line="79" TopLine="56"/>
       </Position27>
       <Position28>
-        <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
-        <Caret Line="73" TopLine="56"/>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="163" TopLine="149"/>
       </Position28>
       <Position29>
-        <Filename Value="D:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
-        <Caret Line="79" TopLine="56"/>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="8" Column="67"/>
       </Position29>
       <Position30>
         <Filename Value="calculator.pas"/>
-        <Caret Line="163" TopLine="149"/>
+        <Caret Line="16" Column="17" TopLine="2"/>
       </Position30>
     </JumpHistory>
   </ProjectSession>
