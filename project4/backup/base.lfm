@@ -1,0 +1,37 @@
+object Form1: TForm1
+  Left = 160
+  Height = 684
+  Top = 136
+  Width = 1089
+  Caption = 'Form1'
+  ClientHeight = 684
+  ClientWidth = 1089
+  OnCreate = FormCreate
+  LCLVersion = '1.8.4.0'
+  object Button1: TButton
+    Left = 77
+    Height = 25
+    Top = 38
+    Width = 75
+    Caption = 'Button1'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 77
+    Height = 90
+    Top = 90
+    Width = 150
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 1
+  end
+  object PaintBox1: TPaintBox
+    Left = 296
+    Height = 544
+    Top = 112
+    Width = 760
+    OnClick = PaintBox1Click
+  end
+end
