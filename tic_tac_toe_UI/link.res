@@ -331,6 +331,10 @@ D:\lazarus\lcl\units\x86_64-win64\win32\win32wsimglist.o
 D:\lazarus\lcl\units\x86_64-win64\win32\win32wsspin.o
 D:\lazarus\fpc\3.0.4\units\x86_64-win64\winunits-base\uxtheme.o
 D:\lazarus\fpc\3.0.4\units\x86_64-win64\winunits-base\commdlg.o
+C:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\lib\x86_64-win64\rectangle.o
+C:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\lib\x86_64-win64\shape.o
+C:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\lib\x86_64-win64\point.o
+C:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\lib\x86_64-win64\desktop.o
 )
 GROUP(
 D:\lazarus\fpc\3.0.4\units\x86_64-win64\rtl\libimpsystem.a

@@ -1,7 +1,7 @@
 object Form1: TForm1
-  Left = 252
+  Left = 226
   Height = 394
-  Top = 185
+  Top = 291
   Width = 605
   Caption = 'Form1'
   ClientHeight = 394
@@ -11,7 +11,7 @@ object Form1: TForm1
   object PaintBox1: TPaintBox
     Left = 56
     Height = 320
-    Top = 40
+    Top = 32
     Width = 497
     ParentColor = False
     OnMouseDown = PaintBox1MouseDown
@@ -59,9 +59,9 @@ object Form1: TForm1
     TabOrder = 0
   end
   object Label2: TLabel
-    Left = 56
+    Left = 88
     Height = 15
-    Top = 186
+    Top = 128
     Width = 34
     Caption = 'Label2'
     ParentColor = False
