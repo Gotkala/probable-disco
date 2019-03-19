@@ -1,7 +1,7 @@
 unit unit1;
 
 {$mode objfpc}{$H+}
-{$WARN 5024 on : Parameter "$1" not used}
+
 interface
 
 uses
@@ -85,7 +85,7 @@ begin
          Label2.Color:= clYellow;
          locked:= false;
        end;
-     if pCore^.isDraw then
+     if pCore^.isDraw and (locked = true) then
        begin
          Label2.Visible:= true;
          Label2.Caption:= 'Draw!';

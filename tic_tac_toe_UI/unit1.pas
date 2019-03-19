@@ -85,7 +85,7 @@ begin
          Label2.Color:= clYellow;
          locked:= false;
        end;
-     if pCore^.isDraw then
+     if pCore^.isDraw and (locked = true) then
        begin
          Label2.Visible:= true;
          Label2.Caption:= 'Draw!';

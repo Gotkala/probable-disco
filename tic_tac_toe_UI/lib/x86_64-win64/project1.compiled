@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <Compiler Value="D:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1286836893"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -vm5024 -FiC:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\lib\x86_64-win64 -FuC:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\core -FuD:\lazarus\lcl\units\x86_64-win64\win32 -FuD:\lazarus\lcl\units\x86_64-win64 -FuD:\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\lazarus\packager\units\x86_64-win64 -FuC:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\ -FUC:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\lib\x86_64-win64\ -dLCL -dLCLwin32 project1.lpr"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\lib\x86_64-win64 -FuC:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\core -FuD:\lazarus\lcl\units\x86_64-win64\win32 -FuD:\lazarus\lcl\units\x86_64-win64 -FuD:\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\lazarus\packager\units\x86_64-win64 -FuC:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\ -FUC:\Users\Ivan\git\probable-disco\tic_tac_toe_UI\lib\x86_64-win64\ -dLCL -dLCLwin32 project1.lpr"/>
 </CONFIG>
