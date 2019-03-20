@@ -82,8 +82,8 @@ SEARCH_DIR("D:\lazarus\fpc\3.0.4\units\x86_64-win64\bzip2\")
 SEARCH_DIR("D:\lazarus\fpc\3.0.4\units\x86_64-win64\")
 SEARCH_DIR("D:\lazarus\fpc\3.0.4\bin\x86_64-win64\")
 INPUT(
-C:\Users\Ivan\git\probable-disco\paint\lib\x86_64-win64\project1.o
-C:\Users\Ivan\git\probable-disco\paint\lib\x86_64-win64\project1.obj
+C:\Users\Jura\git\probable-disco\paint\lib\x86_64-win64\project1.o
+C:\Users\Jura\git\probable-disco\paint\lib\x86_64-win64\project1.obj
 D:\lazarus\fpc\3.0.4\units\x86_64-win64\rtl\system.o
 D:\lazarus\fpc\3.0.4\units\x86_64-win64\rtl\lnfodwrf.o
 D:\lazarus\fpc\3.0.4\units\x86_64-win64\rtl\exeinfo.o
@@ -93,7 +93,7 @@ D:\lazarus\fpc\3.0.4\units\x86_64-win64\rtl\objpas.o
 D:\lazarus\fpc\3.0.4\units\x86_64-win64\rtl\fpintres.o
 D:\lazarus\lcl\units\x86_64-win64\win32\interfaces.o
 D:\lazarus\lcl\units\x86_64-win64\forms.o
-C:\Users\Ivan\git\probable-disco\paint\lib\x86_64-win64\paint.o
+C:\Users\Jura\git\probable-disco\paint\lib\x86_64-win64\paint.o
 D:\lazarus\components\lazutils\lib\x86_64-win64\lazutf8.o
 D:\lazarus\lcl\units\x86_64-win64\interfacebase.o
 D:\lazarus\components\lazutils\lib\x86_64-win64\fpcadds.o
