@@ -1,7 +1,7 @@
 object Form1: TForm1
-  Left = 435
+  Left = 244
   Height = 565
-  Top = 209
+  Top = 168
   Width = 849
   Caption = 'Form1'
   ClientHeight = 565
@@ -11,7 +11,7 @@ object Form1: TForm1
   object PaintBox1: TPaintBox
     Left = 0
     Height = 512
-    Top = 48
+    Top = 53
     Width = 785
     Color = clMenu
     ParentColor = False
@@ -21,7 +21,7 @@ object Form1: TForm1
   end
   object ColorBox1: TColorBox
     Left = 264
-    Height = 24
+    Height = 22
     Top = 17
     Width = 100
     ItemHeight = 16
@@ -35,5 +35,14 @@ object Form1: TForm1
     ItemHeight = 15
     TabOrder = 1
     Text = 'ComboBox1'
+  end
+  object Button1: TButton
+    Left = 710
+    Height = 25
+    Top = 17
+    Width = 75
+    Caption = 'Button1'
+    OnClick = Button1Click
+    TabOrder = 2
   end
 end
