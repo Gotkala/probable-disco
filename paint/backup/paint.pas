@@ -104,18 +104,25 @@ end;
 
 procedure TForm1.makeSpray(X , Y: integer);
 var
-  i: integer;
+  i, j: integer;
 begin
   BrushPen.Width:=15;
   BrushPen.Height:=15;
-  BrushPen.Canvas.Brush.Color:= PaintBox1.Color;
-  BrushPen.Canvas.FillRect(0,0,BrushPen.Canvas.Width, BrushPen.Canvas.Height);
+  BrushPen.Canvas.Brush.Color := clWhite;
+  BrushPen.Canvas.FillRect(0,0 ,BrushPen.Canvas.Width, BrushPen.Canvas.Height);
   BrushPen.Canvas.Brush.Color := Colorbox1.Selected;
   randomize;
-  for i:= 1 to 20 do
+  for i:= 1 to 2 do
   begin
-    BrushPen.Canvas.Pen.Color:= Colorbox1.Selected;;
-    BrushPen.Canvas.Pen.Canvas.Ellipse(random(5)+1, random(5)+1, random(5)+1, random(5)+1);
+    BrushPen.Canvas.Brush.Color := clWhite;
+    BrushPen.Canvas.FillRect(0,0 ,BrushPen.Canvas.Width, BrushPen.Canvas.Height);
+    for j:= 1 to 20 do
+    begin
+      x:= random(BrushPen.Canvas.Width);
+      y:= random(BrushPen.Canvas.Height);
+      BrushPen.Canvas.Brush.Color := Colorbox1.Selected;
+      BrushPen.Canvas.Ellipse(x-3, y-3, x, y);
+    end;
   end;
 end;
 
